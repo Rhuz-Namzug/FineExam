@@ -11,6 +11,12 @@
     object-fit: cover;
     object-position: center;
 }
+.carousel-item {
+  height: 400px; /* Set a fixed height for the carousel item */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 #textss {
     padding-left: 5%;
 }
