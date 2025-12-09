@@ -6,7 +6,7 @@
     text-align: center;
 }
 #carouselExample img{
-    height: 50vh;
+    height: 400px;
     width: 100%;
     object-fit: cover;
     object-position: center;
